@@ -21,11 +21,13 @@ Key Focus
 
 
 Possible Inputs
+
 Add Task: "Buy groceries, Due: 2023-09-20"
 Mark Completed: "Buy groceries"
 View Tasks: "Show all", "Show completed", "Show pending"
 
 Possible Outputs
+
 Task List: Display the tasks along with their status, for example, "Buy groceries 
 
 
